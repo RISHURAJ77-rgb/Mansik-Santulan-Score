@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://127.0.0.1:2200";
+const API_BASE_URL = "https://mansik-santulan-score-lm8a.onrender.com";
 
 const form = document.getElementById("predictForm");
 const submitBtn = document.getElementById("submitBtn");
